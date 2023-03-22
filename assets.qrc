@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/checkbox.png</file>
+        <file>img/plus.svg</file>
+        <file>img/delete-outline.svg</file>
+    </qresource>
+</RCC>
